@@ -1,0 +1,8 @@
+app_identifier("com.avistar.actionsLane") # The bundle identifier of your app
+apple_id("olegnowmenco@gmail.com") # Your Apple email address
+
+itc_team_id("1736742") # App Store Connect Team ID
+team_id("ZA6S8VA4XW") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
